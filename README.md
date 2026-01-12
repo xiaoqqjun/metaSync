@@ -17,7 +17,7 @@ Manually matching and merging these can be tedious and error-prone.
 
 ```r
 # Install (when ready)
-# devtools::install_github("leone/metaSync")
+# devtools::install_github("xiaoqqjun/metaSync")
 
 library(metaSync)
 
